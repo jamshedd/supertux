@@ -18,13 +18,13 @@
       "project": "CMakeLists.txt",
       "projectTarget": "supertux2.exe (RelWithDebInfo\\supertux2.exe)",
       "remoteMachineName": "localhost",
-      "cwd": "D:\\supertux\\out\\build\\arm64-RelWithDebInfo\\RelWithDebInfo",
+      "cwd": "D:\\t4\\supertux\\out\\build\\arm64-RelWithDebInfo\\RelWithDebInfo",
       "program": "${debugInfo.fullTargetPath}",
       "deploy": [],
       "comment": "Learn how to configure remote Windows debugging. For more info, see https://docs.microsoft.com/cpp/build/cmake-remote-debugging",
       "args": [ "--renderer", "sdl" ],
       "env": {
-        "PATH": "D:\\t4\\supertux\\build\\squirrel\\ex\\bin;D:\\t4\\supertux\\build\\physfs\\bin;\\dll;%PATH%"
+        "PATH": "D:\\t4\\supertux\\out\\build\\arm64-RelWithDebInfo\\squirrel\\ex\\bin;D:\\t4\\supertux\\out\\build\\arm64-RelWithDebInfo\\physfs\\bin;\\dll;%PATH%"
       }
     }
   ]
